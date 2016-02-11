@@ -58,7 +58,7 @@ var configItems = [
     name: 'dbHost',
     type: 'string',
     description: 'Database host',
-    default: 'localhost'
+    default: 'mongoserver'
   },
   {
     name: 'dbName',
